@@ -9,7 +9,7 @@ An AI-powered web application that generates personalized travel itineraries bas
 - 📧 **Email Delivery**: Automatically sends formatted itineraries to users
 - 🎨 **Modern UI**: Beautiful, responsive design with smooth animations
 - ✅ **Form Validation**: Real-time validation and error handling
-
+ 
 ## Required Form Fields
 
 - Destination / Location
